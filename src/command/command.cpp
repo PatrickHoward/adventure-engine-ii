@@ -35,3 +35,4 @@ Command& CommandRegistry::getCommand(const std::string& name)
         }
     }
 }
+
